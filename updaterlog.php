@@ -1,7 +1,7 @@
 <?php
 /*
  * Plugin Name: Log Updater Speed
- * Plugin URI: http://wordpress.org/extend/plugins/log-deprecated-notices/
+ * Plugin URI: http://github.com/rmccue/Updater-Speed-Log
  * Description: Logs the timings of the item updater to help identify bottlenecks in the code, and/or to find generally slow feeds.
  * Version: 0.1
  * Author: Ryan McCue
